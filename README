@@ -1,0 +1,2 @@
+Home to a simple scorebot used to test Linux users on their file permission knowledge. Focuses on chmod and setfacl usage to fix modified files that make Linux unusable.
+SELinux coming in the future.
